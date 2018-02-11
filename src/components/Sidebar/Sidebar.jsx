@@ -4,7 +4,7 @@ import { NavLink } from 'react-router-dom';
 import HeaderLinks from '../Header/HeaderLinks.jsx';
 
 import imagine from 'assets/img/sidebar-3.jpg';
-import logo from 'assets/img/reactlogo.png';
+import logo from 'assets/img/HNLogo.png';
 
 import appRoutes from 'routes/app.jsx';
 
@@ -39,8 +39,8 @@ class Sidebar extends Component{
                             </div>
 
                         </a>
-                        <a href="https://www.creative-tim.com" className="simple-text logo-normal">
-                            Creative Tim
+                        <a href="http://www.pjqtest.com" className="simple-text logo-normal">
+                            PJQ Testing
                         </a>
                     </div>
                 <div className="sidebar-wrapper">
